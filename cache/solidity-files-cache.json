@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\gab_o\\OneDrive\\Documents\\Coding\\Web3\\StackUP\\gas_challenge\\contracts\\gasChallenge.sol": {
+      "lastModificationDate": 1689751257754,
+      "contentHash": "090aea65e625f88c36bbbf47b630ee44",
+      "sourceName": "contracts/gasChallenge.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "gasChallenge"
+      ]
+    }
+  }
+}
